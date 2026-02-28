@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/skill/(.*)", "destination": "/skill/$1" },
+    { "source": "/install.sh", "destination": "/install.sh" }
+  ]
+}
